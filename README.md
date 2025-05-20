@@ -89,8 +89,8 @@ After completing the setup, your project folder should resemble this structure:
 your-project-folder/
 ├── app.py                 # Main Streamlit application
 ├── gsheet_utils.py        # Utilities for Google Sheets
-├── credentials.json       # Your private Google API credentials (YOU ADD THIS)
-├── token.json             # Generated after first successful login (DO NOT COMMIT)
+├── credentials.json       # Your private Google API credentials (KEEP PRIVATE)
+├── token.json             # Generated after first successful login (KEEP PRIVATE)
 ├── requirements.txt       # Python dependencies
 └── README.md              # This file
 ```
